@@ -6,7 +6,7 @@ const saltRounds = 10;
 const jwt = require('jsonwebtoken')
 const env = require('dotenv')
 env.config()
-const secret = process.env.SECRET_KEY
+const secret = "akashloveolivia"
 
 // get all users function
 const getAllUsers = async () => {
