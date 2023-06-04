@@ -1,10 +1,10 @@
 {
   "development": {
-  "username": "akash",
-    "password": "olivia@2003",
-    "database": "msdb",
-    "host": "skyinc.mysql.database.azure.com",
-    "dialect": "mysql"
+  "username": "sql12618711",
+    "password": "XPM6xMnn6v",
+    "database": "sql12618711",
+    "host": "sql12.freesqldatabase.com",
+    "dialect": "mysql",
   },
   "test": {
    "username": "akash",
@@ -14,10 +14,12 @@
     "dialect": "mysql"
   },
   "production": {
-   "username": "akash",
-    "password": "olivia@2003",
-    "database": "msdb",
-    "host": "skyinc.mysql.database.azure.com",
-    "dialect": "mysql"
+  "username": "sql12618711",
+    "password": "XPM6xMnn6v",
+    "database": "sql12618711",
+    "host": "sql12.freesqldatabase.com",
+    "dialect": "mysql",
   }
 }
+
+
